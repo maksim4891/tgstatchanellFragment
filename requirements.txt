@@ -1,5 +1,0 @@
-aiogram
-aiosqlite
-apscheduler
-matplotlib
-pandas
