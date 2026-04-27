@@ -1,0 +1,1 @@
+worker: python bot77.py
